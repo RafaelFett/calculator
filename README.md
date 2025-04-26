@@ -1,6 +1,10 @@
 The program
 - Graphic calculator using python, with Tkinter, exported with PyInstaller creating the calculator.exe to execute.
-[Calculator Screenshot](assets/screenshots/screenshot_20250426.png)
+
+
+[Calculator Screenshot](assets/screenshots/screenshot_20250426_130906.png)
+
+
 How to Run
 
 Option 1 – Running from source code
