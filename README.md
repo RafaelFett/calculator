@@ -1,6 +1,15 @@
 The program
 - Graphic calculator using python, with Tkinter, exported with PyInstaller creating the calculator.exe to execute.
 
+How to Run
+
+Option 1 – Running from source code
+bash
+python src/main.py
+
+Option 2 –Downloading the Executable
+Go to the Releases page and download calculator.exe
+
 Dependencies
 pip install -r requirements.txt
 
