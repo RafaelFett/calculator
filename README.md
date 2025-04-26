@@ -1,6 +1,6 @@
 The program
 - Graphic calculator using python, with Tkinter, exported with PyInstaller creating the calculator.exe to execute.
-
+[Calculator Screenshot](assets/screenshots/screenshot_20250426.png)
 How to Run
 
 Option 1 – Running from source code
@@ -15,8 +15,8 @@ pip install -r requirements.txt
 
 Functions
 - Sum(+), subtraction(-), division(/), multiplication(*) and power(Pow).
-- Save to copy the current result to imput 1 and erase imput 2.
-- Save current screenshot of the window in a file src/screenshots
+- Save: copies the current result to input 1 and clears input 2
+- Export: saves a screenshot of the calculator window to the src/screenshots/ folder.
 - Executable generated with PyInstaller.
 - Responsive interface.
 
