@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.log
+*.pot
+
+# Virtual environment
+my_venv/
+
+# VS Code settings
+.vscode/
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# System files
+.DS_Store
+Thumbs.db
