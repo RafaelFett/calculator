@@ -24,8 +24,5 @@ Functions
 - Executable generated with PyInstaller.
 - Responsive interface.
 
-How to execute
-- Just run the calculator.exe file
-
 
 Note: Due to Python runtime bundling, the file size is larger than native applications.
